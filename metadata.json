@@ -1,0 +1,7 @@
+{
+  "name": "THE SHIELD POINT - Máy Bán Hàng Tự Động Thông Minh",
+  "description": "Hệ thống đặt hàng trực tuyến và nhận hàng tại máy bán hàng tự động bằng mã QR, mang lại sự riêng tư và tiện lợi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
